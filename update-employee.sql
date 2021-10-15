@@ -1,0 +1,1 @@
+UPDATE employees SET title = 'IT Manager', ReportsTo = '1' WHERE EmployeeId = 7
